@@ -1,11 +1,11 @@
 {
-  "name": "my-v0-project",
+  "name": "alegantespace",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "build": "next build ",
+    "start": "next start -p 3051",
     "lint": "next lint"
   },
   "dependencies": {
