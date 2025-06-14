@@ -1,0 +1,152 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "shop": "Shop",
+    "about": "About Us",
+    "blog": "Blog",
+    "contact": "Contact",
+    "history": "History",
+    "certificates": "Certificates"
+  },
+  "hero": {
+    "title": "Industrial Excellence Through Innovation",
+    "subtitle": "Trayal leads the industry with cutting-edge solutions, uncompromising quality, and decades of expertise in industrial manufacturing and engineering.",
+    "exploreProducts": "Explore Products",
+    "learnMore": "Learn More"
+  },
+  "categories": {
+    "ourProducts": "Our Products",
+    "ourProductsDesc": "Wide range of quality industrial products tailored to your needs",
+    "pneumatics": "Tires",
+    "pneumaticsDesc": "High-quality tires for industrial needs",
+    "protectiveEquipment": "Protective Equipment",
+    "protectiveEquipmentDesc": "Professional protective gear and solutions",
+    "explosives": "Explosives",
+    "explosivesDesc": "Industrial explosives and mining products",
+    "learnMore": "Learn more"
+  },
+  "about": {
+    "title": "About Trayal Company",
+    "text": "With over 50 years of experience, Trayal is a leading industrial company focused on innovation, quality, and professional solutions. Our commitment to excellence drives everything we do."
+  },
+  "blog": {
+    "latestNews": "Latest News",
+    "latestNewsDesc": "Stay updated with the latest news, innovations and projects from Trayal",
+    "readMore": "Read More",
+    "allArticles": "All Articles"
+  },
+  "stats": {
+    "yearsExperience": "Years of Experience",
+    "projectsCompleted": "Projects Completed",
+    "countriesServed": "Countries Served",
+    "teamMembers": "Team Members"
+  },
+  "cta": {
+    "readyToWork": "Ready to Work Together?",
+    "readyToWorkDesc": "Contact us today to discuss your industrial needs and discover how Trayal can provide the perfect solution for your business.",
+    "getInTouch": "Get In Touch"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "allRightsReserved": "All rights reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Discover our comprehensive range of industrial products, engineered for excellence and built to meet the most demanding requirements.",
+    "allCategories": "All Categories",
+    "subcategories": "Subcategories:",
+    "viewAll": "View All",
+    "shopNow": "Shop Now",
+    "customSolution": "Need a Custom Solution?",
+    "customSolutionDesc": "Our engineering team can develop custom products tailored to your specific requirements.",
+    "requestQuote": "Request Custom Quote",
+    "bicycleTires": "Bicycle Tires",
+    "carTires": "Car Tires",
+    "truckTires": "Truck Tires",
+    "industrialTires": "Industrial Tires",
+    "safetyFootwear": "Safety Footwear",
+    "protectiveClothing": "Protective Clothing",
+    "safetyHelmets": "Safety Helmets",
+    "safetyGloves": "Safety Gloves",
+    "miningExplosives": "Mining Explosives",
+    "constructionExplosives": "Construction Explosives",
+    "detonators": "Detonators",
+    "safetyFuses": "Safety Fuses"
+  },
+  "shop": {
+    "title": "Shop",
+    "subtitle": "Buy our quality products directly online with fast delivery",
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "explosivesNotice": "Notice:",
+    "explosivesNoticeText": "Explosives are sold only to licensed buyers with required documentation. Contact us for more information."
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "emptyDesc": "Add products to your cart to continue shopping",
+    "goToShop": "Go to Shop",
+    "itemsInCart": "Items in Cart",
+    "clearAll": "Clear All",
+    "remove": "Remove",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal:",
+    "shipping": "Shipping:",
+    "free": "Free",
+    "vat": "VAT (20%):",
+    "total": "Total:",
+    "proceedToCheckout": "Proceed to Checkout",
+    "continueShopping": "Continue Shopping"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with us - we will be happy to answer all your questions",
+    "sendMessage": "Send us a message",
+    "fullName": "Full Name *",
+    "company": "Company",
+    "email": "Email Address *",
+    "phone": "Phone Number",
+    "subject": "Subject *",
+    "message": "Message *",
+    "sendButton": "Send Message",
+    "contactInfo": "Contact Information",
+    "address": "Address",
+    "workingHours": "Working Hours",
+    "mondayFriday": "Monday - Friday: 08:00 - 16:00",
+    "saturday": "Saturday: 08:00 - 12:00",
+    "locationMap": "Location Map"
+  },
+  "history": {
+    "title": "Company History",
+    "subtitle": "Over 50 years of tradition, innovation and continuous growth in the industrial sector",
+    "keyAchievements": "Key Achievements",
+    "keyAchievementsDesc": "The most important moments in our company's development through the decades",
+    "firstISO": "First ISO Certificate",
+    "in1995": "In 1995",
+    "oneMillionProducts": "One Million Products",
+    "in2005": "In 2005",
+    "globalPresence": "Global Presence",
+    "countries": "25+ Countries"
+  },
+  "certificates": {
+    "title": "Certificates and Standards",
+    "subtitle": "Our commitment to quality confirmed by internationally recognized certificates and standards",
+    "qualityCommitment": "Our Commitment to Quality",
+    "qualityCommitmentDesc": "We continuously improve our processes and standards to provide the best products and services to our clients",
+    "qualityControl": "Quality Control",
+    "qualityControlDesc": "Strict control processes at every step",
+    "employeeTraining": "Employee Training",
+    "employeeTrainingDesc": "Continuous education and skill development",
+    "innovation": "Innovation",
+    "innovationDesc": "Investment in new technologies and processes",
+    "customerSatisfaction": "Customer Satisfaction",
+    "customerSatisfactionDesc": "Focus on customer needs and expectations",
+    "issued": "Issued:",
+    "validUntil": "Valid until:",
+    "permanent": "Permanent"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "nav": {
+    "home": "Početna",
+    "products": "Proizvodi",
+    "shop": "Prodavnica",
+    "about": "O nama",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "history": "Istorijat",
+    "certificates": "Sertifikati"
+  },
+  "hero": {
+    "title": "Industrijska izvrsnost kroz inovacije",
+    "subtitle": "Trayal vodi industriju sa najsavremenijim rešenjima, neprikosnovenim kvalitetom i decenijskim iskustvom u industrijskoj proizvodnji i inženjerstvu.",
+    "exploreProducts": "Istražite proizvode",
+    "learnMore": "Saznajte više"
+  },
+  "categories": {
+    "ourProducts": "Naši proizvodi",
+    "ourProductsDesc": "Širok spektar kvalitetnih industrijskih proizvoda prilagođenih vašim potrebama",
+    "pneumatics": "Pneumatici",
+    "pneumaticsDesc": "Visokokvalitetni pneumatici za industrijske potrebe",
+    "protectiveEquipment": "Zaštitna sredstva",
+    "protectiveEquipmentDesc": "Profesionalna zaštitna oprema i rešenja",
+    "explosives": "Eksplozivi",
+    "explosivesDesc": "Industrijski eksplozivi i minerski proizvodi",
+    "learnMore": "Saznaj više"
+  },
+  "about": {
+    "title": "O kompaniji Trayal",
+    "text": "Sa više od 50 godina iskustva, Trayal je vodeća industrijska kompanija koja se fokusira na inovacije, kvalitet i profesionalna rešenja. Naša posvećenost izvrsnosti vodi sve što radimo."
+  },
+  "blog": {
+    "latestNews": "Poslednje vesti",
+    "latestNewsDesc": "Budite u toku sa najnovijim vestima, inovacijama i projektima kompanije Trayal",
+    "readMore": "Pročitaj više",
+    "allArticles": "Svi članci"
+  },
+  "stats": {
+    "yearsExperience": "Godina iskustva",
+    "projectsCompleted": "Završenih projekata",
+    "countriesServed": "Zemalja u svetu",
+    "teamMembers": "Članova tima"
+  },
+  "cta": {
+    "readyToWork": "Spremni za saradnju?",
+    "readyToWorkDesc": "Kontaktirajte nas danas da diskutujemo o vašim industrijskim potrebama i otkrijte kako Trayal može da pruži savršeno rešenje za vaš biznis.",
+    "getInTouch": "Stupite u kontakt"
+  },
+  "footer": {
+    "quickLinks": "Brzi linkovi",
+    "contactInfo": "Kontakt informacije",
+    "allRightsReserved": "Sva prava zadržana",
+    "privacyPolicy": "Politika privatnosti",
+    "termsOfService": "Uslovi korišćenja"
+  },
+  "products": {
+    "title": "Naši proizvodi",
+    "subtitle": "Otkrijte naš sveobuhvatan asortiman industrijskih proizvoda, projektovanih za izvrsnost i izgrađenih da zadovolje najzahtevnije potrebe.",
+    "allCategories": "Sve kategorije",
+    "subcategories": "Potkategorije:",
+    "viewAll": "Pogledaj sve",
+    "shopNow": "Kupi sada",
+    "customSolution": "Potrebno vam je prilagođeno rešenje?",
+    "customSolutionDesc": "Naš inženjerski tim može da razvije prilagođene proizvode prema vašim specifičnim zahtevima.",
+    "requestQuote": "Zatražite ponudu",
+    "bicycleTires": "Gume za bicikle",
+    "carTires": "Automobilske gume",
+    "truckTires": "Kamionske gume",
+    "industrialTires": "Industrijski pneumatici",
+    "safetyFootwear": "Zaštitna obuća",
+    "protectiveClothing": "Zaštitna odeća",
+    "safetyHelmets": "Zaštitne kacige",
+    "safetyGloves": "Zaštitne rukavice",
+    "miningExplosives": "Eksplozivi za miniranje",
+    "constructionExplosives": "Eksplozivi za gradnju",
+    "detonators": "Detonatori",
+    "safetyFuses": "Sigurnosni fitilji"
+  },
+  "shop": {
+    "title": "Prodavnica",
+    "subtitle": "Kupujte naše kvalitetne proizvode direktno online sa brzom dostavom",
+    "addToCart": "Dodaj u korpu",
+    "outOfStock": "Nema na stanju",
+    "explosivesNotice": "Napomena:",
+    "explosivesNoticeText": "Eksplozivi se prodaju samo licenciranim kupcima uz potrebnu dokumentaciju. Kontaktirajte nas za više informacija."
+  },
+  "cart": {
+    "title": "Vaša korpa",
+    "empty": "Vaša korpa je prazna",
+    "emptyDesc": "Dodajte proizvode u korpu da biste nastavili sa kupovinom",
+    "goToShop": "Idite u prodavnicu",
+    "itemsInCart": "Proizvodi u korpi",
+    "clearAll": "Obriši sve",
+    "remove": "Ukloni",
+    "orderSummary": "Pregled porudžbine",
+    "subtotal": "Ukupno proizvoda:",
+    "shipping": "Dostava:",
+    "free": "Besplatno",
+    "vat": "PDV (20%):",
+    "total": "Ukupno:",
+    "proceedToCheckout": "Nastavi sa plaćanjem",
+    "continueShopping": "Nastavi kupovinu"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Stupite u kontakt sa nama - rado ćemo odgovoriti na sva vaša pitanja",
+    "sendMessage": "Pošaljite nam poruku",
+    "fullName": "Ime i prezime *",
+    "company": "Kompanija",
+    "email": "Email adresa *",
+    "phone": "Broj telefona",
+    "subject": "Tema *",
+    "message": "Poruka *",
+    "sendButton": "Pošaljite poruku",
+    "contactInfo": "Kontakt informacije",
+    "address": "Adresa",
+    "workingHours": "Radno vreme",
+    "mondayFriday": "Ponedeljak - Petak: 08:00 - 16:00",
+    "saturday": "Subota: 08:00 - 12:00",
+    "locationMap": "Mapa lokacije"
+  },
+  "history": {
+    "title": "Istorijat kompanije",
+    "subtitle": "Više od 50 godina tradicije, inovacija i kontinuiranog rasta u industrijskom sektoru",
+    "keyAchievements": "Ključna dostignuća",
+    "keyAchievementsDesc": "Najvažniji momenti u razvoju naše kompanije kroz decenije",
+    "firstISO": "Prvi ISO sertifikat",
+    "in1995": "1995. godine",
+    "oneMillionProducts": "Milion proizvoda",
+    "in2005": "2005. godine",
+    "globalPresence": "Globalno prisustvo",
+    "countries": "25+ zemalja"
+  },
+  "certificates": {
+    "title": "Sertifikati i standardi",
+    "subtitle": "Naša posvećenost kvalitetu potvrđena međunarodno priznatim sertifikatima i standardima",
+    "qualityCommitment": "Naša posvećenost kvalitetu",
+    "qualityCommitmentDesc": "Kontinuirano unapređujemo naše procese i standarde kako bismo pružili najbolje proizvode i usluge našim klijentima",
+    "qualityControl": "Kontrola kvaliteta",
+    "qualityControlDesc": "Striktni procesi kontrole na svakom koraku",
+    "employeeTraining": "Obuka zaposlenih",
+    "employeeTrainingDesc": "Kontinuirana edukacija i razvoj veština",
+    "innovation": "Inovacije",
+    "innovationDesc": "Investiranje u nove tehnologije i procese",
+    "customerSatisfaction": "Zadovoljstvo klijenata",
+    "customerSatisfactionDesc": "Fokus na potrebe i očekivanja klijenata",
+    "issued": "Izdato:",
+    "validUntil": "Važi do:",
+    "permanent": "Stalno"
+  }
+}
